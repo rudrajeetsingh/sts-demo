@@ -1,6 +1,5 @@
 package com.example.demo.config;
 
-import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
 import org.springframework.boot.test.context.TestConfiguration;
